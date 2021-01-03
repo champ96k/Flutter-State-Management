@@ -1,7 +1,7 @@
 # flutter_application_1
 
 
- ![Text]("Assets/work_in_progress.jpg")
+ ![](https://s8.gifyu.com/images/work_in_progress.jpg)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
